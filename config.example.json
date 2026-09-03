@@ -1,0 +1,8 @@
+{
+  "url": "https://traggo.example.com",
+  "tag_key": "project",
+  "projects": ["alpha", "beta"],
+  "keychain_service": "traggo-swiftbar",
+  "keychain_account": "yourname",
+  "timeout": 5
+}
